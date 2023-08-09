@@ -29,5 +29,7 @@ int main()
     cout << "• Scholarships & Certificates" << endl;
     cout << " - academic excellence : 1,680,000(KRW)" << endl << endl;
 
+    cout << " END ";
+
     return 0;
 }
